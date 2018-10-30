@@ -1,0 +1,2 @@
+# story
+new css practice
